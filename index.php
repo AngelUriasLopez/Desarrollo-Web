@@ -1,6 +1,6 @@
 <?php
 
-    $nombre = "Angel Urias";
+    $nombre = "Angel Urias feo";
   
 ?>
 
